@@ -1,0 +1,1 @@
+Problem statement: Design an e-commerce website that allows users to browse, search, and purchase products, manage their shopping cart, and complete transactions securely.
